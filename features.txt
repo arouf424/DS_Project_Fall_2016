@@ -28,6 +28,8 @@ Class diagram of the code base.
 Design specification/ Entity-Relationship diagram of the database. 
 
 Functional Specification - detail description of the features of your project.
+Asad Rouf
+https://docs.google.com/document/d/1rtGAJWUzzy29WBhob1ATMwrxPlbgI2IZK-0B7A9L7xE/edit?usp=sharing
 
 Test case document – description of the test cases for the features of your project.
 
